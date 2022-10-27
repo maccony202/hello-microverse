@@ -12,7 +12,7 @@
 
 
 ## Authors
- Collins Nana Antwi Baffour-Gyawu
+- Collins Nana Antwi Baffour-Gyawu
 
 👤 **Author1**
 
