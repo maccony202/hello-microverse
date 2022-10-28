@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Hello Microverse
+# Hello World
 
 - html & css linters configuration
 
