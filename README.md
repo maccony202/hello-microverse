@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World
 
->   Hello Microverse
+- html & css linters configuration
 
 
 ## Built With
@@ -13,8 +13,9 @@
 
 ## Authors
 
-👤 **Author1**
 
+👤 **Author1**
+- Collins Nana Antwi Baffour-Gyawu
 - GitHub: [@githubhandle](https://github.com/maccony202)
 - Twitter: [@twitterhandle](https://twitter.com/Januaryhappine2)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/nana-antwi-collins-21b423244?)
