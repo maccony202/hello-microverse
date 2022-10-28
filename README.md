@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Title
+## Hello Microverse
 
->   Hello Microverse
+- html & css linters configuration
 
 
 ## Built With
